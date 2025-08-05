@@ -1,11 +1,7 @@
-<!-- Banner -->
-![Banner](https://github.com/alexsantos-djesus/alexsantos-djesus/blob/main/banner-github.gif)
-
 # 💻 Olá, eu sou o Alex Santos!
 <p align="left">
-  Desenvolvedor Web e estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> (3º semestre). <br>
-  Promovido a <strong>Dev Júnior</strong> após estágio na <strong>Six</strong>. <br>
-  Criador do <a href="https://instagram.com/debuguei"><strong>Debuguei</strong></a>, onde compartilho meu dia a dia como dev e dicas para iniciantes.
+  💻 Sou Alex Santos, desenvolvedor web e estudante do 3º semestre de Análise e Desenvolvimento de Sistemas, promovido a Dev Júnior após estágio na Six. <br>
+  Atuo no desenvolvimento full stack com foco em PHP, MySQL, Next.js e Tailwind CSS, e busco criar soluções digitais funcionais e intuitivas, sempre priorizando a experiência do usuário.
 </p>
 
 ---
