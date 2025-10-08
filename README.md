@@ -11,7 +11,7 @@
 - 🛠 Experiência com **Prisma ORM, PostgreSQL e Docker**
 - 💼 Desenvolvimento de sistemas personalizados, e-commerces e aplicações sob demanda
 - 🌍 Sempre explorando novas tecnologias para criar soluções modernas e funcionais
-- 📱 Criador de conteúdo no [Instagram Debuguei](https://instagram.com/debuguei)
+- 📱 Criador de conteúdo no Instagram [Debuguei](https://instagram.com/debuguei)
 
 ---
 
