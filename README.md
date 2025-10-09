@@ -33,11 +33,11 @@
 ---
 
 ## 📂 Projetos em Destaque
-- 📅 [Agendador de Consultas](https://github.com/alexsantos-djesus/Agendador-de-consultas) — Sistema para agendamento online de consultas.
+- 📅 [Instituto Beth Leite](https://github.com/alexsantos-djesus/Instituto-Beth-Leite) — Plataforma oficial para adoção, eventos e apoio ao Instituto Beth Leite.
 - 🍔 [Cardápio Digital](https://github.com/alexsantos-djesus/Cardapio) — Cardápio online com integração de pedidos.
 - 🌤 [Clima e Tempo](https://github.com/alexsantos-djesus/clima-e-tempo) — Consulta de clima em tempo real via API.
-- 💰 [Finanças Pessoais](https://github.com/alexsantos-djesus/financas-pessoais) — Controle financeiro com PHP e Bootstrap.
-- 🖥 [Se Você Fosse um Site](https://github.com/alexsantos-djesus/se-voce-fosse-um-site) — Quiz interativo com imagem personalizada.
+- 💰 [Smart clinic](https://github.com/alexsantos-djesus/smart-clinic) — Sistema acadêmico de agendamento de consultas médicas.
+- 🖥 [Samcreds landing page](https://github.com/alexsantos-djesus/Samcreds-landing-page) — Uma landing page 100% responsiva, otimizada e de alta conversão.
 - 💈 [Debuguei Barber](https://github.com/alexsantos-djesus/Debuguei-Barber) — Sistema de agendamento para barbearias.
 
 ---
