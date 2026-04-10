@@ -1,6 +1,6 @@
 # 💻 Olá, eu sou o Alex Santos!
 <p align="left">
-  💻 Sou Alex Santos, desenvolvedor web e estudante do 3º semestre de Análise e Desenvolvimento de Sistemas, promovido a Dev Júnior após estágio na Six. <br>
+  💻 Sou Alex Santos, desenvolvedor web e estudante do 4º semestre de Análise e Desenvolvimento de Sistemas, promovido a Dev Júnior após estágio na Six. <br>
   Atuo no desenvolvimento full stack com foco em PHP, MySQL, Next.js e Tailwind CSS, e busco criar soluções digitais funcionais e intuitivas, sempre priorizando a experiência do usuário.
 </p>
 
